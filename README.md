@@ -17,7 +17,7 @@ Data final: "24/12/2023 23h59"
 Antes de começar, recebemos um e-mail, enviada por um usuário chamado *C3z4rCyph3r*, informando ser um dos informantes natalinos do Papai Noel. Quando abrimos, tivemos uma surpresa: está em alguma linguagem que não conseguimos decifrar. 
 
 > [!TIP]\
-> A mensagem está no arquivo [???.md](???.md)
+> A mensagem está no arquivo [???.md](https://github.com/guiaanonima/evento-de-natal-2023/blob/main/%3F%3F%3F.md)
 
 Algo nos diz que para prosseguirmos, precisamos entender o que está escrito naquele texto.
 
