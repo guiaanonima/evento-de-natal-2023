@@ -30,7 +30,7 @@ Algo nos diz que para prosseguirmos, precisamos entender o que está escrito naq
 
 Como fomos pegos de surpresa pelo bom velhinho, iremos obter as repostas via Google Forms. Para responder, acesse esse [link](https://forms.gle/RYtJMV7AZeBYicPJ7) e responda o formulário até o final.
 
-A cada desafio completo, uma mensagem será enviada com o seu nickname no canal Geral do Discord informando a conclusão do desafio!
+Quando concluir, e sua resposta for aprovada por nossos administradores, uma mensagem será enviada com o seu nickname no canal Geral do Discord informando a conclusão do desafio!
 
 # Recompensas
 Os participantes irão obter:
