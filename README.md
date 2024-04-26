@@ -1,5 +1,4 @@
 <p class="header" align="center">
- <img width="100px" src="https://media.discordapp.net/attachments/1177796559811911681/1183416376417853460/ghost.png?ex=65884162&is=6575cc62&hm=d32de9c6709788e97209076b3eb4b7e6848353020bc6994b83ea1ddfbee1f0d9&=&format=webp&quality=lossless&width=1024&height=1024" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Evento de Natal - 2023</h2>
  <p align="center"></p>
 </p>
